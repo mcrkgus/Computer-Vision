@@ -1,6 +1,5 @@
 #이미지 처리와 변환 작업을 수행하며, 결과 이미지를 Matplotlib를 사용하여 시각화하는 예제
 
-
 import cv2
 import matplotlib.pyplot as plt
 import numpy as np
